@@ -1,2 +1,11 @@
 node_modules
 debug.log
+*.swp
+.vscode
+assets/js/jsfeat.min.js
+.github/workflows/label.yml
+.eslintignore
+.huskyrc
+.travis.yml
+matcher.spec.js
+orb.core.min.js
