@@ -3,9 +3,4 @@ debug.log
 *.swp
 .vscode
 assets/js/jsfeat.min.js
-.eslintignore
-.huskyrc
-.travis.yml
-matcher.spec.js
-orb.core.min.js
-
+.github/workflows/label.yml
