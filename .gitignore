@@ -1,5 +1,5 @@
 node_modules
-
+debug.log
 *.swp
 .vscode
 assets/js/jsfeat.min.js
