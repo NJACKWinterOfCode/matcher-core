@@ -203,7 +203,7 @@ Below is a summary of each component of the [`orbify`](/orb.core.com.js#L14) fun
 	* [`laplacian_threshold`](/orb.core.com.js#L158): (as above) Defines the rate of change of intensity of the pixels that should be perceived as "noisy".
 	* [`eigen_value_threshold`](/orb.core.com.js#L159): (as above) Specify how similar two pixels should be in order for them to be perceived as "lying in the same cluster".
 
-All this being said, if you still have any questions regarding `matcher-core`'s implementations, feel free to [open an issue](/issues) clearly specifying your doubts, and pinging me ([@rexagod](https://github.com/rexagod)) in the issue discription.
+All this being said, if you still have any questions regarding `matcher-core`'s implementations, feel free to [open an issue](https://github.com/NJACKWinterOfCode/matcher-core/issues/new) clearly specifying your doubts, and pinging me ([@rexagod](https://github.com/rexagod)) in the issue discription.
 
 ## LICENSE
 
